@@ -1,2 +1,5 @@
-name = "Johana"
-print("Hello, " + name)
+student_name = "Johana"
+
+greeting = "Hello, " + student_name
+
+print(greeting)
